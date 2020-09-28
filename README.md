@@ -3,17 +3,17 @@ This is one of the projects I have held a leading role in. While most of the cod
 
 ## Credits
 * Vincent Le
-  *Leading role
-  *Programming
-  *Level Design
-  *UI/UX
+  * Leading role
+  * Programming
+  * Level Design
+  * UI/UX
 * Nathan Brass
-  *Programming
-  *Level Design
+  * Programming
+  * Level Design
 * Aiden Robins
-  *Level Design
+  * Level Design
 * Alexander Willbanks
-  *Music
+  * Music
 
 ## Assets
 Assets were taken from kennyArt.
